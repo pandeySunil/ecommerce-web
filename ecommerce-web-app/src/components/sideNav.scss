@@ -1,0 +1,35 @@
+.side-nav-wrapper {
+    width: 20%;
+    min-height: 800px;
+    border: 1px solid;
+    border-bottom: none;
+    display: inline-block;
+    vertical-align:top;
+    ul {
+        list-style-type: none;
+        margin: 0 ;
+        padding: 0;
+    }
+    
+    li {
+        border-bottom: 1px solid;
+        min-height: 80px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        font-weight: bolder;
+        margin-top: 30px;
+        display: inline-block;
+    }
+    
+    h2 {
+        text-align: center;
+    }
+    
+   
+}
+
+

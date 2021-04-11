@@ -1,0 +1,58 @@
+// *{
+//     border: 1px solid red;
+// }
+
+.headerV2 {
+    height: 60px;
+    box-shadow: 0 11px 20px rgba(0, 0, 0, 0.8);
+    background-color: royalblue;
+    .header-nav{
+        float: right;
+    }
+    .logo {
+        height: 20px;
+        width: 80px;
+        position: absolute;
+        top: 2px;
+        left: 26px;
+    }
+    .navbar {
+        float: right;
+        background-color:  royalblue  !important;
+    }
+    a {
+        color:  white;
+        font-size: larger;
+        font-weight: bolder;
+    }
+}
+
+// .register-link-container , .register-Login-container, .cart-value{
+
+//    // display: inline-block;
+//     float: right;
+  
+//     padding: 15px;
+//     a{
+//     color: white;
+//     text-decoration: none;
+//     font-size: x-large;
+
+//     }
+    
+//     a:hover {
+//         color: yellow;
+//       }
+// }
+
+// .login-submit-button{
+//     width: 100%;
+//     background-color: black;
+//     color: white;
+// }
+
+// span.user-greeting {
+//     color: white;
+//     margin-right: 0%;
+//     font-size: x-large;
+// }
